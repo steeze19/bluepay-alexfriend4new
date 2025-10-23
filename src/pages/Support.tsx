@@ -73,7 +73,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-blue-600 hover:bg-blue-700"
-              onClick={() => window.open('https://wa.me/2349152912665')}
+              onClick={() => window.open('https://wa.me/2347068756548')}
             >
               Chat on WhatsApp
             </Button>
